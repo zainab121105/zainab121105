@@ -79,6 +79,20 @@ Retail analytics platform with ML-driven demand forecasting (~95% accuracy), dyn
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab121105&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<img src="https://streak-stats.demolab.com?user=zainab121105&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=zainab121105&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/zainab-amreen-a213482b4
