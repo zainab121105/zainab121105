@@ -5,7 +5,7 @@
 Aspiring software engineer passionate about building impactful full-stack applications and exploring Machine Learning solutions. Currently learning and building real-world projects with modern technologies.
 
 **📧 Email:** zainab121105@gmail.com | **📞 Phone:** 7893766220  
-**🔗 [LinkedIn](https://www.linkedin.com/in/zainab-amreen-121105/) | [GitHub](https://github.com/zainab121105) | [LeetCode](https://leetcode.com/zainab121105/)**
+**🔗 [LinkedIn](https://www.linkedin.com/in/zainab-amreen-a213482b4) | [GitHub](https://github.com/zainab121105) | [LeetCode](https://leetcode.com/u/ZainabAmreen/)**
 
 ---
 
@@ -101,8 +101,8 @@ Aspiring software engineer passionate about building impactful full-stack applic
 I'm always excited to collaborate, learn, and build impactful projects. Feel free to reach out!
 
 - 💌 Email: zainab121105@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/zainab-amreen-121105/](https://www.linkedin.com/in/zainab-amreen-121105/)
-- 💻 LeetCode: [leetcode.com/zainab121105/](https://leetcode.com/zainab121105/)
+- 🔗 LinkedIn: [linkedin.com/in/zainab-amreen-a213482b4](https://www.linkedin.com/in/zainab-amreen-a213482b4)
+- 💻 LeetCode: [leetcode.com/u/ZainabAmreen/](https://leetcode.com/u/ZainabAmreen/)
 
 ---
 
