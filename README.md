@@ -1,11 +1,25 @@
-## 👋 Hi, I'm Zainab Amreen
+<div align="center">
 
-**B.Tech CSE Student | Full-Stack Developer | ML & Data Analytics Enthusiast**
+# 👋 Hi, I'm Zainab Amreen
 
-Aspiring software engineer passionate about building impactful full-stack applications and exploring Machine Learning solutions. Currently learning and building real-world projects with modern technologies.
+**B.Tech CSE (2nd year) | Full-Stack Developer | ML & Data Analytics Enthusiast**
 
-**📧 Email:** zainab121105@gmail.com | **📞 Phone:** 7893766220  
-**🔗 [LinkedIn](https://www.linkedin.com/in/zainab-amreen-a213482b4) | [GitHub](https://github.com/zainab121105) | [LeetCode](https://leetcode.com/u/ZainabAmreen/)**
+Aspiring Software Engineer passionate about building impactful full-stack applications and exploring Machine Learning solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-amreen-a213482b4)
+[![Email](https://img.shields.io/badge/Email-zainab121105%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zainab121105@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ZainabAmreen/)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: Full-stack projects and Machine Learning applications
+- 🌱 Learning: Deep Learning, Advanced ML, and Generative AI
+- 💡 Interested in: Scalable systems and AI-powered applications
+- 🎯 Goal: Become a skilled Software Engineer and build real-world impact projects
 
 ---
 
@@ -13,97 +27,67 @@ Aspiring software engineer passionate about building impactful full-stack applic
 
 **Kakatiya Institute of Technology and Science, Warangal**  
 📚 Bachelor of Technology (B.Tech) - Computer Science & Engineering  
-📅 Aug 2023 – Present  
-📊 CGPA: 9.75 / 10.00
+📅 Aug 2023 – Present | 📊 CGPA: 9.75 / 10.00
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Java, Python, JavaScript (ES6), SQL, C
+<div align="center">
 
-### 🌐 Web & Backend
-- HTML5, CSS3, React, Node.js, Express.js, REST APIs, JWT Authentication
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="38" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="38" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="38" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="38" alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="38" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="38" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="38" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="38" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="38" alt="VS Code" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="38" alt="Postman" />
 
-### 🗄️ Databases
-- MySQL, Oracle SQL, MongoDB
-
-### 📊 Machine Learning & Data Analytics
-- NumPy, Pandas, Matplotlib, Scikit-Learn, Power BI
-- EDA, Linear/Logistic Regression, Decision Trees, Random Forest
-
-### 🧰 Tools & Platforms
-- GitHub, Postman, MS Excel, MS Power BI, VS Code
-
-### 🧠 Core CS Concepts
-- OOP, DBMS, Operating Systems, Computer Networks, DSA
+</div>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 **InnovateFund** | Crowdfunding & Investor Networking Platform
+### 🔹 InnovateFund
+
+Crowdfunding & investor networking platform connecting innovators with investors. Features JWT-based authentication, real-time chat, milestone tracking, and investor matching.
+
 **Tech:** React | Node.js | Express | MongoDB | Socket.IO | JWT
 
-- Developed a full-stack crowdfunding platform connecting innovators with investors
-- Implemented secure JWT-based authentication and role-based access control
-- Built real-time chat & notifications using Socket.IO
-- Designed MongoDB schemas for ideas, milestones, comments, and likes
-- Created REST APIs for seamless data management
+### 🔹 Walmart Sparkathon 2025 | AI-Powered Retail Analytics Platform
 
-### 🔹 **Walmart Sparkathon 2025** | AI-Powered Retail Analytics Platform
+Retail analytics platform with ML-driven demand forecasting (~95% accuracy), dynamic pricing optimization, and inventory waste reduction.
+
 **Tech:** React | Node.js | MongoDB | Python | Scikit-Learn
-
-- Built ML models for demand forecasting with ~95% accuracy
-- Implemented pricing optimization to reduce inventory waste
-- Performed data preprocessing and feature engineering
-- Evaluated models using Scikit-Learn metrics (Confusion Matrix, Precision, Recall)
-- Integrated ML outputs into a real-time analytics dashboard
 
 ---
 
 ## 🏆 Achievements
 
-✨ **Finalist – Multiple National-Level Hackathons** (2024 – 2025)
-- Advanced through multiple rounds by building functional prototypes under strict time constraints
-
-🎖️ **Academic Merit – B.Tech CSE** (2nd & 4th Semester, 2025)
-- Awarded merit certificates for top academic performance
+- 🏅 Finalist — Multiple National-Level Hackathons (2024 – 2025)
+- 🎖️ Academic Merit — B.Tech CSE (2nd & 4th Semester, 2025)
+- 📜 MySQL Implementation Certified Associate
 
 ---
 
-## 📜 Certifications
+## 📫 Connect With Me
 
-- 🏅 MySQL Implementation Certified Associate
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning & Deep Learning
-- Cloud Technologies (AWS/Azure)
-- System Design & Scalability
+- 💼 LinkedIn: https://www.linkedin.com/in/zainab-amreen-a213482b4
+- 📧 Email: zainab121105@gmail.com
+- 💻 LeetCode: https://leetcode.com/u/ZainabAmreen/
+- 📞 Phone: 7893766220
 
 ---
 
-## 💡 Interests
+## ⚡ Fun Fact
 
-- Full-stack web application development
-- Machine Learning & AI-powered solutions
-- Scalable system design
-- Open-source contributions
-
----
-
-## 📫 Let's Connect
-
-I'm always excited to collaborate, learn, and build impactful projects. Feel free to reach out!
-
-- 💌 Email: zainab121105@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/zainab-amreen-a213482b4](https://www.linkedin.com/in/zainab-amreen-a213482b4)
-- 💻 LeetCode: [leetcode.com/u/ZainabAmreen/](https://leetcode.com/u/ZainabAmreen/)
-
----
-
-⭐ _Always curious, always learning. Building the future, one line of code at a time._
+I love building impactful full-stack applications and constantly exploring the intersection of web development and machine learning. Always curious, always learning, always building.
