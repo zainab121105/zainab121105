@@ -19,34 +19,19 @@
 
 ## 🎯 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-🔭 **Currently working on**  
-Full-stack projects & ML applications
+| | |
+|---|---|
+| 🔭 **Currently working on** | Full-stack projects & ML applications |
+| 🌱 **Learning** | Deep Learning, Generative AI, System Design |
+| 💡 **Interested in** | Scalable systems & AI-powered solutions |
+| 🎯 **Goal** | Build impactful software for real-world problems |
+| ⭐ **CGPA** | 9.75 / 10.00 |
+| 🏆 **Achievements** | Hackathon Finalist, Academic Merit Awardee |
+| 📜 **Certifications** | MySQL Implementation Certified Associate |
 
-🌱 **Learning**  
-Deep Learning, Generative AI, System Design
-
-💡 **Interested in**  
-Scalable systems & AI-powered solutions
-
-🎯 **Goal**  
-Build impactful software for real-world problems
-
-</td>
-<td>
-
-📊 **Highlights**  
-- 💯 CGPA: 9.75/10
-- 🏆 Hackathon Finalist
-- 🎖️ Academic Merit Awardee  
-- 📜 Certified Associate
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
