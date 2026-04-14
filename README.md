@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-amreen-a213482b4)
 [![Email](https://img.shields.io/badge/Email-zainab121105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainab121105@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ZainabAmreen/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-Download-28A745?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1P7wrnpC7YVJBBvD9e9ym6aXK2r-WgDHP/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zainab121105&style=flat-square&color=blue)
 
