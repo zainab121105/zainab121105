@@ -165,11 +165,3 @@
 ## ⚡ Philosophy
 
 > I believe in building software that matters. Whether it's a full-stack web application or an intelligent ML model, every line of code is an opportunity to create impact. Always learning, always building, always curious. 🚀
-
----
-
-<div align="center">
-
-**Made with ❤️ by Zainab Amreen**
-
-</div>
